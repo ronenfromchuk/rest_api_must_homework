@@ -1,0 +1,3 @@
+2022-03-03 13:40:19,354:DbRepo:WARNING:deleting from table <class 'Customers.Customers'>.
+2022-03-03 13:48:45,202:DbRepo:WARNING:deleting from table <class 'Customers.Customers'>.
+2022-03-03 14:03:39,293:DbRepo:WARNING:deleting from table <class 'Customers.Customers'>.
