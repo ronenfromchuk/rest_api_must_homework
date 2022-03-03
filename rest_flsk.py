@@ -31,7 +31,7 @@ def update_customer(_input, id):
             c["last_name"] = _input["last_name"] if "last_name" in _input.keys() else None
             c["address"] = _input["address"] if "address" in _input.keys() else None
             repo.update_by_id(Customers, Customers.id, id, c)
-    return '{"status": "success"}'
+    return '{"status": "great success"}'
 
 # localhost:5000/
 # static page
